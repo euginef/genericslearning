@@ -1,2 +1,3 @@
-./target
-./generic-learning.iml
+/.idea/
+/target/
+/generics-learning.iml
